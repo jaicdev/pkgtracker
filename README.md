@@ -24,7 +24,7 @@
 ```bash
 git clone https://github.com/jaicdev/pkgtracker.git
 cd pkgtracker
-pip install .
+pip install . --break-system-packages
 ````
 
 ---
